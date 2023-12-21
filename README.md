@@ -15,7 +15,7 @@ The code has been implemented with:
 
 ## Getting Started ##
 
-### Training ###
+## Training ##
 
 #### Data Preparation ####
 
@@ -52,7 +52,7 @@ The high and low level models can be trained using the command
 For training either model, the parameters in `configs.py` can be 
 modified.
 
-### Evaluation ###
+## Evaluation ##
 
 ![Zeroshot](./assets/zeroshot.png)
 
