@@ -107,6 +107,19 @@ trained using these features. The ridge regression parameter `alpha`
 can be tuned to obtain optimal performance. For our experiments, 
 `alpha` was chosen from the set `{0.1, 1, 10, 100}`.
 
+## Citation
+If you find this work useful for your research, please cite our paper:
+```
+@InProceedings{Srinath_2024_WACV,
+    author    = {Srinath, Suhas and Mitra, Shankhanil and Rao, Shika and Soundararajan, Rajiv},
+    title     = {Learning Generalizable Perceptual Representations for Data-Efficient No-Reference Image Quality Assessment},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2024},
+    pages     = {22-31}
+}
+```
+
 ## License ##
 
 MIT License
