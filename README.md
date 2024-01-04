@@ -63,7 +63,7 @@ To install CLIP, please follow the instructions given
 in [CLIP](https://github.com/openai/CLIP).
 
 Once CLIP is installed, the positional embedding needs to be disabled in
-the forward pass of the image encoder. This can be done by commenting the
+the forward pass of the image encoder during inference to test with images of all resolutions. This can be done by commenting the
 positional embedding step in the forward pass of the image encoder in 
 CLIP's `model.py`.
 ```
