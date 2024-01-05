@@ -1,5 +1,5 @@
 # <p align="center">GRepQ</p>
-Official repository for our WACV 24 paper titled [Learning Generalizable Perceptual Representations for Data-Efficient No-Reference Image Quality Assessment](http://arxiv.org/abs/2312.04838).
+Official repository for our WACV 24 paper titled [Learning Generalizable Perceptual Representations for Data-Efficient No-Reference Image Quality Assessment](https://openaccess.thecvf.com/content/WACV2024/html/Srinath_Learning_Generalizable_Perceptual_Representations_for_Data-Efficient_No-Reference_Image_Quality_Assessment_WACV_2024_paper.html)
 
 ![Framework](./assets/framework.png)
 
